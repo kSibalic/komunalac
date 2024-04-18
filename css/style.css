@@ -109,7 +109,7 @@ header a:hover{
 
 #showcase1{
   min-height: 450px;
-  background:url('../img/motorlawn.jpg') no-repeat 0 -300px;
+  background:url('/img/motorlawn.jpg') no-repeat 0 -300px;
   background-size: auto;
   background-position: center;
   text-align:center;
